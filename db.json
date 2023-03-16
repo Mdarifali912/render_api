@@ -18,5 +18,13 @@
               "cost":"4000",
               "booked":false
         }
+      ],
+      "users":[
+        {
+          "name": "arif",
+          "email": "md@gmail.com",
+          "password": "912"
+          
+        }
       ]
 }
