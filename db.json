@@ -71,6 +71,15 @@
           "password": "912"
           
         }
+      ],
+      "trip":[
+        {
+          "name":"arif",
+          "email":"md@gmail.com",
+          "destination":"dubai",
+          "nooftraveller":2,
+          "budget":4000
+        }
       ]
 
 
