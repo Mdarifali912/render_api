@@ -1,9 +1,19 @@
 {
-    "todos":[
+    "register":[
+
+      {
+        "name":"arif",
+        "email":"md@gmail.com",
+        "password":"1234"
+      }
 
     ],
-    "data":[
-        ""
+    "users":[
+      
+        {
+          "email":"arif",
+          "password":"123"
+        }
     ],
 
     "hotel":
@@ -64,7 +74,7 @@
           }
         
       ],
-      "users":[
+      "userss":[
         {
           "name": "arif",
           "email": "md@gmail.com",
